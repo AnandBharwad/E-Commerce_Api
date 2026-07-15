@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Apple iPhone 16",
-    "price": 45199,
+    "price": 68000,
     "description": "Apple iPhone 16 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzpWLwkww6Q1hYe7StKjm-u-vMlscZCuShlaMvhIPhA&s=10",
     "rating": 4.3,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Samsung Galaxy S25",
-    "price": 69399,
+    "price": 85000,
     "description": "Samsung Galaxy S25 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&q=80",
     "rating": 4.1,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Google Pixel 10",
-    "price": 106299,
+    "price": 90000,
     "description": "Google Pixel 10 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraG-nU7Cv3lVRreSLfdpl_JjpolA258IaF6migLm2nw&s=10",
     "rating": 4.8,
@@ -38,16 +38,16 @@
   {
     "id": 5,
     "name": "Xiaomi 15",
-    "price": 5099,
+    "price": 50099,
     "description": "Xiaomi 15 offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGShPTDEs-ZSOLWhvP-P_SHuhy38MgAsLerHvf0XrIXg&s=10",
     "rating": 5.0,
     "category": "Smartphones"
   },
   {
     "id": 6,
     "name": "Nothing Phone 3",
-    "price": 94799,
+    "price": 34799,
     "description": "Nothing Phone 3 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICgcj8FzB5G-oDKh1A0OtrOzShyC_UTT712dXm4v46Q&s=10",
     "rating": 3.9,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Motorola Edge 60",
-    "price": 54199,
+    "price": 44199,
     "description": "Motorola Edge 60 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyO5NVlvXuGJ6pQDw9eBI28LD3p79g-mGJN4XPvqbM7A&s=10",
     "rating": 4.6,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Vivo X200",
-    "price": 93299,
+    "price": 70299,
     "description": "Vivo X200 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEGNQtDmx0thEfo1Gfl1_LvX_tdWViYPDFMrkbZPVZw&s=10",
     "rating": 4.5,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Oppo Find X9",
-    "price": 2099,
+    "price": 70099,
     "description": "Oppo Find X9 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHnaj2RWFQG35aTGeGNkMPR5lACbvQ7DifKzkdcEIzQ&s=10",
     "rating": 4.0,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Realme GT 8",
-    "price": 4299,
+    "price": 30099,
     "description": "Realme GT 8 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZ6AzJfQc_VHiU9nP-vNX5AnAceX9Bpu_Thlhs8HbiQ&s=10",
     "rating": 4.7,
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "MacBook Air M4",
-    "price": 56199,
+    "price": 178000,
     "description": "MacBook Air M4 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNE7EepjJSD7SlA7v0DGMraKv4D9VhAXOSqT03W8mvBA&s=10",
     "rating": 4.3,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "Dell XPS 14",
-    "price": 57299,
+    "price": 170000,
     "description": "Dell XPS 14 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPSen6fTil9bAEC3TnElWK2ur3htzBeo7NrFOIut3gA&s=10",
     "rating": 4.7,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "HP Spectre x360",
+    "name": "HP victus x360",
     "price": 72199,
     "description": "HP Spectre x360 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqFfCWKbZCFJA0DNlSN0TsAjriBOlcDlRti0pezHA3g&s=10",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "Lenovo Yoga 9i",
-    "price": 39199,
+    "price": 89199,
     "description": "Lenovo Yoga 9i offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoNzlYFXJOSqg8TWCqz-ov3ic0AtrcoEIZXbZzyhUsg&s=10",
     "rating": 4.7,
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "Asus Zenbook 14",
-    "price": 48799,
+    "price": 248799,
     "description": "Asus Zenbook 14 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn849A6IEU3OtewYIAU2HxmizHvO_ImTk0rqd3UYUe3A&s",
     "rating": 4.9,
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name": "MSI Prestige 16",
-    "price": 54599,
+    "price": 74599,
     "description": "MSI Prestige 16 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsTX7JrJKskPcdCtOXFJfPv4VLxxK0fbKabWgc4Mh_g&s",
     "rating": 4.8,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name": "Samsung Galaxy Book5",
-    "price": 30099,
+    "price": 130099,
     "description": "Samsung Galaxy Book5 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-BPZwgR6m_r5P2NMfwHJtFQg7VgecYK0DTFMK0OYig&s=10",
     "rating": 5.0,
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "name": "LG Gram 16",
-    "price": 22499,
+    "price": 92499,
     "description": "LG Gram 16 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Rp4oHZJsaJ_iR3YZZrhjlGJ_4uew5ZJm1U6m5PmW5A&s=10",
     "rating": 4.6,
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "name": "Microsoft Surface Laptop",
-    "price": 45199,
+    "price": 145199,
     "description": "Microsoft Surface Laptop offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELE9kge4cNJsFs19vmXgu0r4QrAR0tbZWH7RO8KmcBQ&s",
     "rating": 4.0,
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "name": "Sony WH-1000XM6",
-    "price": 72699,
+    "price": 7269,
     "description": "Sony WH-1000XM6 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsfAGi0DG5zUXHCTT8rVf245ljSP2SrinUGB9o8-yLA&s=10",
     "rating": 4.6,
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "name": "Bose QC Ultra",
-    "price": 115899,
+    "price": 11599,
     "description": "Bose QC Ultra offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyLHnTe3tJLs65wdacN-vmELb0KPbqo6mC03scjSdsg&s=10",
     "rating": 4.0,
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "name": "JBL Tune 770NC",
-    "price": 122699,
+    "price": 6999,
     "description": "JBL Tune 770NC offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TMiMJQlBn035s-NmkZ6KNnHqvMRwtbu1IonpgRKntg&s=10",
     "rating": 4.5,
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "name": "Apple AirPods Pro 2",
-    "price": 32999,
+    "price": 22999,
     "description": "Apple AirPods Pro 2 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCzByizmMKK6o9VtL5ILfSBj65SAtVlVgzMKax9Xmgw&s=10",
     "rating": 4.9,
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "name": "Nothing Ear",
-    "price": 25999,
+    "price": 2999,
     "description": "Nothing Ear offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
     "rating": 4.2,
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "name": "Samsung Buds 3 Pro",
-    "price": 43399,
+    "price": 1399,
     "description": "Samsung Buds 3 Pro offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?auto=format&fit=crop&w=600&q=80",
     "rating": 4.1,
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "name": "Boat Nirvana",
-    "price": 48199,
+    "price": 4199,
     "description": "Boat Nirvana offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?auto=format&fit=crop&w=600&q=80",
     "rating": 4.9,
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "name": "Sennheiser Momentum 4",
-    "price": 16499,
+    "price": 1499,
     "description": "Sennheiser Momentum 4 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=600&q=80",
     "rating": 3.8,
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "name": "Anker Soundcore Q45",
-    "price": 107699,
+    "price": 1699,
     "description": "Anker Soundcore Q45 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=600&q=80",
     "rating": 4.4,
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "name": "Skullcandy Crusher",
-    "price": 76499,
+    "price": 6499,
     "description": "Skullcandy Crusher offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80",
     "rating": 4.9,
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "name": "OnePlus Watch 3",
-    "price": 54799,
+    "price": 5499,
     "description": "OnePlus Watch 3 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
     "rating": 3.9,
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "name": "Garmin Venu 3",
-    "price": 80799,
+    "price": 20799,
     "description": "Garmin Venu 3 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjoDpKg5-wc-Dx3R0EtHlK8bUCvAZKMCBwG5XgCjxQw&s=10",
     "rating": 4.6,
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "name": "Amazfit Balance",
-    "price": 67899,
+    "price": 6099,
     "description": "Amazfit Balance offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
     "rating": 4.9,
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "name": "Noise ColorFit Pro",
-    "price": 72899,
+    "price": 2899,
     "description": "Noise ColorFit Pro offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqgU2SZA3WYEgZGLcZdUSS0JJ00mAOJsl2-fYRcsjzg&s=10",
     "rating": 4.9,
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "name": "Fire-Boltt Vision",
-    "price": 76499,
+    "price": 4990,
     "description": "Fire-Boltt Vision offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1510017808666-f7f51cac3413?auto=format&fit=crop&w=600&q=80",
     "rating": 4.9,
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "name": "Fitbit Sense 3",
-    "price": 64199,
+    "price": 15000,
     "description": "Fitbit Sense 3 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
     "rating": 4.2,
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "name": "Huawei Watch GT",
-    "price": 24199,
+    "price": 11199,
     "description": "Huawei Watch GT offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1517502884422-41eaaced0168?auto=format&fit=crop&w=600&q=80",
     "rating": 4.4,
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "name": "Logitech MX Master 3S",
-    "price": 47099,
+    "price": 14099,
     "description": "Logitech MX Master 3S offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
     "rating": 4.0,
@@ -371,16 +371,16 @@
   {
     "id": 42,
     "name": "Logitech MX Keys",
-    "price": 64199,
+    "price": 24199,
     "description": "Logitech MX Keys offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5zYe4EfhEnsWa4U6Y_s-WTF_AnIFKjlEgGxRB9YGSg&s=10",
     "rating": 3.9,
     "category": "Accessories"
   },
   {
     "id": 43,
     "name": "Anker 65W Charger",
-    "price": 107099,
+    "price": 1099,
     "description": "Anker 65W Charger offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
     "rating": 4.8,
@@ -389,7 +389,7 @@
   {
     "id": 44,
     "name": "Samsung 10000mAh Power Bank",
-    "price": 25499,
+    "price": 13499,
     "description": "Samsung 10000mAh Power Bank offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1609592424085-f5da48674261?auto=format&fit=crop&w=600&q=80",
     "rating": 4.4,
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "name": "Apple MagSafe Charger",
-    "price": 100999,
+    "price": 22999,
     "description": "Apple MagSafe Charger offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1622445262465-2481c4574875?auto=format&fit=crop&w=600&q=80",
     "rating": 4.2,
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "name": "SanDisk Extreme SSD",
-    "price": 118899,
+    "price": 11889,
     "description": "SanDisk Extreme SSD offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1600541519463-ee3729984950?auto=format&fit=crop&w=600&q=80",
     "rating": 3.8,
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "name": "Kingston USB 128GB",
-    "price": 32499,
+    "price": 4499,
     "description": "Kingston USB 128GB offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V-8uOik8cPKdM1_7kpJrIhKfomSCcAjohwKlyLmJgQ&s=10",
     "rating": 4.0,
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "name": "Portronics Mouse",
-    "price": 70799,
+    "price": 2799,
     "description": "Portronics Mouse offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1625842268584-8f32904551ec?auto=format&fit=crop&w=600&q=80",
     "rating": 3.9,
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "name": "Amazon Echo Dot",
-    "price": 22899,
+    "price": 2899,
     "description": "Amazon Echo Dot offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=600&q=80",
     "rating": 4.8,
@@ -479,7 +479,7 @@
   {
     "id": 54,
     "name": "Razer DeathAdder V3",
-    "price": 14299,
+    "price": 44299,
     "description": "Razer DeathAdder V3 offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
     "rating": 3.9,
@@ -488,16 +488,16 @@
   {
     "id": 55,
     "name": "SteelSeries Apex Pro",
-    "price": 2499,
+    "price": 24990,
     "description": "SteelSeries Apex Pro offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOzG88PQeXEoK5MgAaUCjImH6VQz73T5OIqj-fPvH1Q&s=10",
     "rating": 4.6,
     "category": "Gaming"
   },
   {
     "id": 56,
     "name": "HyperX Cloud III",
-    "price": 125299,
+    "price": 25299,
     "description": "HyperX Cloud III offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
     "rating": 4.0,
@@ -506,7 +506,7 @@
   {
     "id": 57,
     "name": "Logitech G Pro X",
-    "price": 129099,
+    "price": 12999,
     "description": "Logitech G Pro X offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
     "rating": 4.3,
@@ -517,16 +517,16 @@
     "name": "Asus ROG Ally",
     "price": 92899,
     "description": "Asus ROG Ally offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vrgDgFicnLUWmVdz4dNgyPipzd2pS7ccORTJRjo6-Q&s=10",
     "rating": 3.9,
     "category": "Gaming"
   },
   {
     "id": 59,
-    "name": "Steam Deck OLED",
+    "name": "Steam Deck ",
     "price": 82699,
     "description": "Steam Deck OLED offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1612287230202-1bf1d85d1bdf?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pBmlKtlUL._AC_UF1000,1000_QL80_.jpg",
     "rating": 4.3,
     "category": "Gaming"
   },
@@ -542,7 +542,7 @@
   {
     "id": 61,
     "name": "Dyson V15 Vacuum",
-    "price": 128999,
+    "price": 89990,
     "description": "Dyson V15 Vacuum offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
     "rating": 3.9,
@@ -551,7 +551,7 @@
   {
     "id": 62,
     "name": "Philips Air Fryer",
-    "price": 107699,
+    "price": 12699,
     "description": "Philips Air Fryer offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVL2KlKRtYTA66GgZFWoJsjLa_1HvpApXvGsES02rVjg&s",
     "rating": 3.9,
@@ -569,9 +569,9 @@
   {
     "id": 64,
     "name": "Havells Kettle",
-    "price": 128399,
+    "price": 12399,
     "description": "Havells Kettle offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Ak+OwEbDL._AC_UF350,350_QL80_.jpg",
     "rating": 4.6,
     "category": "Home Appliances"
   },
@@ -580,23 +580,23 @@
     "name": "LG Microwave",
     "price": 40099,
     "description": "LG Microwave offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8JKgpwtmuqBt_uqjfkKZ_5IMasiCwmv5E2Mqpkdg1A&s=10",
     "rating": 3.9,
     "category": "Home Appliances"
   },
   {
     "id": 66,
     "name": "Samsung Refrigerator",
-    "price": 44099,
+    "price": 440999,
     "description": "Samsung Refrigerator offering reliable performance, premium build quality and excellent value.",
-    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3D46i-HCvJtrnLMPfrpXhrYjuJU_HEIuvlZ48Vevow&s=10",
     "rating": 5.0,
     "category": "Home Appliances"
   },
   {
     "id": 67,
     "name": "IFB Washing Machine",
-    "price": 113499,
+    "price": 38499,
     "description": "IFB Washing Machine offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=600&q=80",
     "rating": 4.2,
@@ -605,7 +605,7 @@
   {
     "id": 68,
     "name": "Kent RO Purifier",
-    "price": 80399,
+    "price": 8599,
     "description": "Kent RO Purifier offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAcrAip4pANg98rDopOcWUKPEXMGuI2MMPrZ7MZITPQ&s",
     "rating": 4.7,
@@ -614,7 +614,7 @@
   {
     "id": 69,
     "name": "Mi Robot Vacuum",
-    "price": 122299,
+    "price": 22299,
     "description": "Mi Robot Vacuum offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKkZULpH8gQCDIUqU4FLsD7hlyEU96reyA_ZA1Ad0ltw&s=10",
     "rating": 4.3,
@@ -623,7 +623,7 @@
   {
     "id": 70,
     "name": "Voltas Air Cooler",
-    "price": 100299,
+    "price": 8299,
     "description": "Voltas Air Cooler offering reliable performance, premium build quality and excellent value.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCdBw-H_fBtRx_Ev4wrxh9ciU2h7_Rv6scHtr7HF1iw&s=10",
     "rating": 4.2,
